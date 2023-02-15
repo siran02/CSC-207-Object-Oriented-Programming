@@ -1,2 +1,2 @@
-# CSC-207-Object-Oriented-Programming
-All projects and labs completed for CSC-207, a java based course.
+# Bunco Game Simulation
+Project completed for course CSC-207 Object Oriented Programming.
